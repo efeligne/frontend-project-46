@@ -1,0 +1,28 @@
+{
+  "name": "@hexlet/code",
+  "version": "0.0.1",
+  "description": "Hexlet study project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efeligne/frontend-project-46.git"
+  },
+  "author": "Aleksandr Kositsyn <efeligne@icloud.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efeligne/frontend-project-46/issues"
+  },
+  "homepage": "https://github.com/efeligne/frontend-project-46#readme",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.26.0"
+  },
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
